@@ -32,7 +32,8 @@
           "content",
           "category",
           "post-status",
-          "visibility"
+          "visibility",
+          "published"
         ],
         "required": [
           "content"
@@ -46,7 +47,8 @@
           "content",
           "category",
           "post-status",
-          "visibility"
+          "visibility",
+          "published"
         ],
         "required": [
           "name",
@@ -93,7 +95,8 @@
           "content",
           "category",
           "post-status",
-          "visibility"
+          "visibility",
+          "published"
         ],
         "required": [
           "in-reply-to",
@@ -149,7 +152,8 @@
           "content",
           "category",
           "post-status",
-          "visibility"
+          "visibility",
+          "published"
         ],
         "required": [
           "photo"
